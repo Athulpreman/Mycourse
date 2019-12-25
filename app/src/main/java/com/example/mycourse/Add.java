@@ -2,7 +2,7 @@ package com.example.mycourse;
 
 public class Add
 {
-    String ct1,cd1,cdu1,cv1,cda1;
+   public String ct1,cd1,cdu1,cv1,cda1;
 
     public Add() {
     }
